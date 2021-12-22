@@ -8,3 +8,5 @@
 - *Her çalışan bir ofiste çalışır.*
 
 ***Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.***
+
+![img](https://github.com/Beytullahzor7/OOP-Diagram/blob/main/Untitled%20Diagram.drawio.png)
